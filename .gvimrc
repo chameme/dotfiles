@@ -6,7 +6,7 @@ colorscheme molokai
 syntax on
 
 "ウィンドウの幅
-set columns=120
+set columns=150
 
 "ウィンドウの高さ
-set lines=50
+set lines=70

@@ -36,6 +36,9 @@ endif
 
 filetype plugin on
 
+" ********** NERDTree.vim 設定 **********
+nnoremap <silent><C-e> :NERDTreeToggle<CR>  "ディレクトリツリー開閉ショートカット Ctrl + e
+
 " ********** ファイル設定 *********
 set fenc=utf-8    " 文字コードはUTF-8
 set nobackup      " バックアップファイルは作成しない
